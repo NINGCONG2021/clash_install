@@ -1,4 +1,4 @@
-clash安装教程
+clash安装教程[GitHub](https://github.com/NINGCONG2021/clash_install)
 
 1. 在当前目录输入`bash clash_install.sh ` 
 2. 输入 `sudo mv ~/.app/clash/clash.desktop /usr/share/applications/`
